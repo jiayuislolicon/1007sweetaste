@@ -172,13 +172,16 @@ const workData = [
 		<p class="text">
 			取用去相的元素去設計互動網頁，在讀者經過拼圖、首頁再來到互動設計時經過多層次的思考，進而進入偈子解釋的頁面也不會覺得突然而感到唐突，而是循序漸進的進入金剛經內部。
 		</p>
-		<div class="bigpic">
+		<div class="pic">
 			<img src='asset/diamondsutra/6.jpg'/>
+		</div>
+		<div class="pic">
+			<img src='asset/diamondsutra/7.jpg'/>
 		</div>
 		`,
 		videoOpenning: null,
 		videoEndding: {
-			location: '2.jpg',
+			location: '8.jpg',
 			youtubeSrc: '5d6VACBOyKQ',
 		},
 	},
