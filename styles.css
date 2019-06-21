@@ -2265,6 +2265,13 @@ section.work-page .work-article-content .work-content .pic{
 	}
 }
 
+@media (min-width: 1540px){
+
+	section.work-page .work-article-content .work-content .pic{
+		margin-bottom: 120px;
+	}
+}
+
 section.work-page .work-article-content .work-content .pic img{
 	width: 100%;
 }
@@ -2298,6 +2305,13 @@ section.work-page .work-article-content .work-content h2.subtitle{
 	}
 }
 
+@media (min-width: 1680px){
+
+	section.work-page .work-article-content .work-content h2.subtitle{
+		width: 1024px;
+	}
+}
+
 section.work-page .work-article-content .work-content p.text{
 	font-size: 14px;
 	line-height: 21px;
@@ -2328,6 +2342,7 @@ section.work-page .work-article-content .work-content p.text{
 		width: 1024px;
 		font-size: 20px;
 		line-height: 36px;
+		margin-bottom: 120px;
 	}
 }
 
@@ -2351,6 +2366,13 @@ section.work-page .work-article-content .work-content .bigpic{
 	section.work-page .work-article-content .work-content .bigpic{
 		left: -170px;
 		margin-bottom: 80px;
+	}
+}
+
+@media (min-width: 1540px){
+
+	section.work-page .work-article-content .work-content .bigpic{
+		margin-bottom: 120px;
 	}
 }
 
@@ -2385,6 +2407,13 @@ section.work-page .work-article-content .video{
 	section.work-page .work-article-content .video{
 		margin: 80px auto;
 		left: 0;
+	}
+}
+
+@media (min-width: 1540px){
+
+	section.work-page .work-article-content .video{
+		margin-bottom: 120px;
 	}
 }
 
