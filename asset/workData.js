@@ -232,27 +232,12 @@ const workData = [
 		facepic:['person_1', 'person_2', 'person_3', 'person_4',],
 		info: '「金漬」是推廣台灣有機醬菜的品牌，挑選各地有機食材作為產品。視覺呈現出純樸、天然意象，結合台灣早期特色，展現出屬於台灣味的醬菜。',
 		content: `
-		<p class="text">
-			以介紹香料嗅覺為主軸，利用插畫取代以往食譜書的照片形式，以五種香料:迷迭香、肉桂、辣椒、胡椒、八角為主角，每一種香料選用五道料理繪製成食譜書。
-		</p>
 		<div class="pic">
 			<img src='asset/fragrantunderstanding/1.jpg'/>
 		</div>
-		<h2 class="subtitle">
-			食譜書
-		</h2>
-		<p class="text">
-			在封面縫上親手製作的香料手抄紙，刻意不將香料打得很碎，留下香料本身些許樣貌，讓大家可以在觀看食譜書時，也能聞到香料本身的味道，在視覺、嗅覺、觸覺上一次滿足。
-		</p>
 		<div class="pic">
 			<img src='asset/fragrantunderstanding/2.jpg'/>
 		</div>
-		<h2 class="subtitle">
-			內頁
-		</h2>
-		<p class="text">
-			將烹調料理的步驟和工廠運作的方式做結合，以插畫方式表現，增加趣味性。引領大家順著平檯、運送帶及階梯知道料理下一 步該進行的步驟。
-		</p>
 		<div class="pic">
 			<img src='asset/fragrantunderstanding/3.jpg'/>
 		</div>
